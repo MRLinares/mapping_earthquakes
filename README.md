@@ -7,7 +7,7 @@ Create interactive map of earthquake and tectonic plate utilizing GeoJSON data.
 <br>
 
 > ### ***Resources:*** <br>
-> **Data:** Earthquakes GeoJSON, M4.5+ Earthquakes GeoJSON, Tectonic Plate GeoJSON\
+> **Data:** [Earthquakes GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson), [M4.5+ Earthquakes GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson), [Tectonic Plate GeoJSON](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)\
 > **Software:** Virtual Studio Code v1.72.2, HTML/CSS, JavaScript, Leaflet v1.7.1, D3.js v5
 
 ## Results
