@@ -10,6 +10,10 @@ Create interactive map of earthquake and tectonic plate utilizing GeoJSON data.
 > **Data:** Earthquakes GeoJSON, M4.5+ Earthquakes GeoJSON, Tectonic Plate GeoJSON\
 > **Software:** Virtual Studio Code v1.72.2, HTML/CSS, JavaScript, Leaflet v1.7.1, D3.js v5
 
+## Results
+
+After obtaining an API from Mapbox, I created several folders to house my html, css, and API, and javascript logic.  I created an interactive map with layers and selectable modes.  The selectable modes are Day/Night Navigation, Satellite, and Street.  The map is draggable and can be zoomed in.  The layers are the Earthquake, Major Earthquake, and Tectonic Plate data retrieved from GeoJSON data sources.  I mapped them with circle markers and linestrings, respectively.  These modes and layers can be switched and activated in the top right hand corner of the map screen.  There are examples below.
+
 > Night Navigation map without any layers:
 <img width="1721" alt="nightNavigation_noLayers" src="https://user-images.githubusercontent.com/108758105/198707312-21816f16-15b5-4c8f-85f9-8a6784a2b73d.png">
 <br>
